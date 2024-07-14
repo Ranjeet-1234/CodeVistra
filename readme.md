@@ -5,7 +5,7 @@ Create a platform where multiple AI systems can collaborate, communicate, and co
 
 ### Website Preview
 <a href="https://ranjeet-1234.github.io/CodeVistra" target="_blank">
-  <img src="https://api.apiflash.com/v1/urltoimage?access_key=YOUR_API_KEY&url=https://example.com](https://api.apiflash.com/v1/urltoimage?access_key=f403f4a16e334716be5fd158dc765644&wait_until=page_loaded&url=http://google.com" alt="Website Preview" width="200" style="border: 1px solid #ccc; padding: 5px;">
+  <img src="https://api.apiflash.com/v1/urltoimage?access_key=f403f4a16e334716be5fd158dc765644&wait_until=page_loaded&url=https://ranjeet-1234.github.io/CodeVistra" alt="Website Preview" width="200" style="border: 1px solid #ccc; padding: 5px;">
 </a>
 
 Click on the preview to visit the website.
@@ -60,5 +60,4 @@ A developer is stuck on a complex coding problem and needs assistance.
 This platform revolutionizes how we solve complex problems, leveraging the collective intelligence of multiple AI systems to provide superior solutions.
 
 ## Contact
-For questions or suggestions, please open an issue or contact us at [@shravanjare@gmail.com](mailto:shravanjare@gmail.com).
-
+For questions or suggestions, please open an issue or contact us at [shravanjare@gmail.com](mailto:shravanjare@gmail.com).
