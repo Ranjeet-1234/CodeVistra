@@ -5,10 +5,14 @@ Create a platform where multiple AI systems can collaborate, communicate, and co
 
 ### Website Preview
 <a href="https://ranjeet-1234.github.io/CodeVistra" target="_blank">
-  <img src="https://api.apiflash.com/v1/urltoimage?access_key=f403f4a16e334716be5fd158dc765644&wait_until=page_loaded&url=https://ranjeet-1234.github.io/CodeVistra" alt="Website Preview" width="200" style="border: 1px solid #ccc; padding: 5px;">
+  <img src="https://api.apiflash.com/v1/urltoimage?access_key=f403f4a16e334716be5fd158dc765644&wait_until=page_loaded&url=https://ranjeet-1234.github.io/CodeVistra" alt="Website Preview" width="300" style="border: 1px solid #ccc; padding: 5px;">
 </a>
 
-Click on the preview to visit the website.
+<p style="text-align: center;">
+  <a href="https://ranjeet-1234.github.io/CodeVistra" target="_blank" style="text-decoration: none; color: white; background-color: #007bff; padding: 10px 20px; border-radius: 5px; display: inline-block; margin-top: 10px;">
+    Click on the preview to visit the website
+  </a>
+</p>
 
 ## Key Features
 
