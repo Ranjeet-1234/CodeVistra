@@ -4,7 +4,7 @@
 Create a platform where multiple AI systems can collaborate, communicate, and converge on the best solutions for user queries. This platform leverages the strengths of different AI models, ensuring users receive the most accurate, comprehensive, and innovative responses.
 
 ### Website Preview
-<a href="https://ranjeet-1234.github.io/CodeVistra/)" target="_blank">
+<a href="https://ranjeet-1234.github.io/CodeVistra" target="_blank">
   <img src="https://api.apiflash.com/v1/urltoimage?access_key=YOUR_API_KEY&url=https://example.com](https://api.apiflash.com/v1/urltoimage?access_key=f403f4a16e334716be5fd158dc765644&wait_until=page_loaded&url=http://google.com" alt="Website Preview" width="200" style="border: 1px solid #ccc; padding: 5px;">
 </a>
 
